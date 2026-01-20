@@ -6,7 +6,7 @@
 
 Template pronto para uso que permite conectar o **VS Code** ou **Cursor** à sua instância **N8N** usando o **MCP Server** (Model Context Protocol). Com esta configuração, você pode criar, editar e gerenciar workflows diretamente da sua IDE, aproveitando assistentes de IA como o Claude.
 
-📖 **Artigo completo:** [Integre o VS Code ou Cursor com o N8N](https://www.guilhermefavaron.com.br/post/integrar-vscode-cursor-n8n-automacao-workflows)
+**Artigo completo:** [Integre o VS Code ou Cursor com o N8N](https://www.guilhermefavaron.com.br/post/integrar-vscode-cursor-n8n-automacao-workflows)
 
 ---
 

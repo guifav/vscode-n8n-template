@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "n8n-mcp": {
+      "type": "http",
+      "url": "https://SUA-INSTANCIA.com/mcp-server/http",
+      "headers": {
+        "Authorization": "Bearer SEU_MCP_ACCESS_TOKEN_AQUI"
+      },
+      "description": "n8n MCP Server for workflow automation"
+    }
+  }
+}

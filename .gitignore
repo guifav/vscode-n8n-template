@@ -1,0 +1,30 @@
+# Credenciais sensíveis - NUNCA versionar
+.env
+.env.local
+.env.*.local
+
+# Configurações pessoais do VSCode (opcional)
+.vscode/settings.json
+
+# Node modules (se usar npm)
+node_modules/
+
+# Backups temporários de workflows
+workflows/backup/
+workflows/*.backup.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos temporários
+*.tmp
+*.temp
+.cache/

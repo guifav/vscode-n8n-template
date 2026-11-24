@@ -6,7 +6,7 @@
 
 Template pronto para uso que permite conectar o **VS Code** ou **Cursor** à sua instância **N8N** usando o **MCP Server** (Model Context Protocol). Com esta configuração, você pode criar, editar e gerenciar workflows diretamente da sua IDE, aproveitando assistentes de IA como o Claude.
 
-**Artigo completo:** [Integre o VS Code ou Cursor com o N8N](https://www.guilhermefavaron.com.br/post/integrar-vscode-cursor-n8n-automacao-workflows)
+**Artigo completo:** [Integre o VS Code ou Cursor com o N8N](https://guifav.dev/blog/integrar-vscode-cursor-n8n-automacao-workflows/)
 
 ---
 
@@ -200,7 +200,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## Recursos
 
-- [Artigo completo com tutorial detalhado](https://www.guilhermefavaron.com.br/post/integrar-vscode-cursor-n8n-automacao-workflows)
+- [Artigo completo com tutorial detalhado](https://guifav.dev/blog/integrar-vscode-cursor-n8n-automacao-workflows/)
 - [Documentação oficial do N8N MCP](https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/)
 - [N8N Public API](https://docs.n8n.io/api/api-reference/)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
@@ -217,11 +217,11 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 **Guilherme Favaron**
 
-- Blog: [guilhermefavaron.com.br](https://www.guilhermefavaron.com.br)
+- Site: [guifav.dev](https://guifav.dev/)
 - LinkedIn: [/in/guilhermefavaron](https://www.linkedin.com/in/guilhermefavaron)
 
 ---
 
 <p align="center">
-  Feito com ☕ e 🤖 por <a href="https://www.guilhermefavaron.com.br">Guilherme Favaron</a>
+  Feito com ☕ e 🤖 por <a href="https://guifav.dev/">Guilherme Favaron</a>
 </p>
